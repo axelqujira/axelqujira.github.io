@@ -54,13 +54,6 @@ mailchimp__button__text: Get updates
 
 
 #-------------------------------
-# Services Settings
-services__settings:
-  services__title: Featured Service
-  services__description: Here you can see our latest works.
-
-
-#-------------------------------
 # Projects Settings
 projects__settings:
   projects__title: Featured Projects

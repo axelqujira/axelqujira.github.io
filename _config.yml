@@ -28,9 +28,6 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
-  services:
-    output: true
-    permalink: /service/:slug
 
 # Pages Path
 defaults:
@@ -53,11 +50,6 @@ defaults:
       type: "projects"
     values:
       layout: "project"
-  - scope:
-      path: ""
-      type: "services"
-    values:
-      layout: "services"
 
 sass:
   sass_dir: _sass
