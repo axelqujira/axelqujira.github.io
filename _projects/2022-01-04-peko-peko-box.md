@@ -18,3 +18,15 @@ As the 2020 pandemic hit the travel industry, we worked to develop a new brand c
 </div>
 
 As part of the Peko Peko Box formula we also produce a lot of media, including YouTube videos that feature the locations and people that are the source of the goodies in the box and in the store. Each box also ships with a magazine made in house that details the items within.
+
+## Day in the life of a Tokyo rickshaw driver
+<p><iframe src="https://www.youtube.com/embed/7Tjjk7KBcys" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+
+## Secrets behind the Japanese lantern 
+<p><iframe src="https://www.youtube.com/embed/nIgg8YLqdk0" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+
+## What does it take to polish Japanese Swords?
+<p><iframe src="https://www.youtube.com/embed/3Woat1-Urkg" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+
+## Day in the Life of a Food Truck Driver in Japan 
+<p><iframe src="https://www.youtube.com/embed/UME4J5slEfw" loading="lazy" frameborder="0" allowfullscreen></iframe></p>

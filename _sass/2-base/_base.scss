@@ -144,7 +144,7 @@ img,
   
     a {
       font-weight: 500;
-      border-bottom: 1px solid var(--border-color);
+      border-bottom: 1px solid var(--link-border-color);
       transition: $global-transition;
 
       &:hover {
