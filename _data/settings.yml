@@ -45,9 +45,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Let's make a big splash
-  hero__description: We all have stories that we tell ourselves about the world and how we fit into it. Every business has a story to tell, too. The hard part is getting your message across to those people out there in the big blue sea who will listen.
-
-Qujira is a team of experts who will help you with the fundamentals of making your splash in today’s digital communities and marketplaces. Whether it’s video content for your YouTube channel, engaging articles for your blog, or a revamp of your company’s identity and message, Qujira is here to help!
+  hero__description: We all have stories that we tell ourselves about the world and how we fit into it. Every business has a story to tell, too. The hard part is getting your message across to those people out there in the big blue sea who will listen. Qujira is a team of experts who will help you with the fundamentals of making your splash in today’s digital communities and marketplaces. Whether it’s video content for your YouTube channel, engaging articles for your blog, or a revamp of your company’s identity and message, Qujira is here to help!
   hero__image: '/images/tokyo-japan-video-production-media-consulting.jpg'
 
 
