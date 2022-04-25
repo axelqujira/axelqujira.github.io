@@ -1,9 +1,9 @@
 #-------------------------------
 # Site Settings
-title: Hilton
-logo: # You can add own logo. For example '/images/logo.png'.
-description: Hilton is a super simple portfolio theme for Jekyll.
-color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+title: Qujira 
+logo: '/images/qujira-logo.png' # You can add own logo. For example '/images/logo.png'.
+description: Tokyo Video Production & Digital Media Consulting. 
+color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 #-------------------------------
@@ -12,26 +12,23 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'Services'
+      url: '/services/'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'Pages'
-      submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
-
+    - title: 'Team'
+      url: '/team/'
+    - title: 'About'
+      url: '/about/'
+    - title: 'Contact'
+      url: '/contact/'
 
 #-------------------------------
 # Author Settings
 author:
-  author__name: Monica Hilton
-  author__bio: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
-  author__avatar: '/images/01-1.jpg'
+  author__name: Qujira 
+  author__bio: Let's make a big splash together!
+  author__avatar: '/images/qujira-logo.png'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
@@ -47,9 +44,11 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: I'm Monica. I will create design that can give you value
-  hero__description: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
-  hero__image: '/images/01.jpg'
+  hero__title: Let's make a big splash
+  hero__description: We all have stories that we tell ourselves about the world and how we fit into it. Every business has a story to tell, too. The hard part is getting your message across to those people out there in the big blue sea who will listen.
+
+Qujira is a team of experts who will help you with the fundamentals of making your splash in today’s digital communities and marketplaces. Whether it’s video content for your YouTube channel, engaging articles for your blog, or a revamp of your company’s identity and message, Qujira is here to help!
+  hero__image: '/images/tokyo-japan-video-production-media-consulting.jpg'
 
 
 #-------------------------------
