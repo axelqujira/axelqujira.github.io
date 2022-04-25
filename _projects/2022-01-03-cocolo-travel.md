@@ -2,7 +2,7 @@
 title: Cocolo Travel
 date: 2022-01-02 08:01:35 +0300
 subtitle: Our own project
-image: '/images/project-9.jpg'
+image: '/images/cocolo.jpg'
 ---
 
 In 2015 we started an inbound travel agency and travel industry consultancy. Cocolo focuses on sustainable and slow travel that provides a meaningful experience to both the customers and the local providers. One of the major challenges was integrating modern e-commerce and digital business with the old fashioned style that is prevalent in more rural parts of Japan, where the fax machine still reigns supreme.

@@ -2,7 +2,7 @@
 title: EYExplore
 date: 2022-01-02 08:01:35 +0300
 subtitle: Our own project
-image: '/images/project-9.jpg'
+image: '/images/eyexplore.jpg'
 ---
 
 We started EYExplore, a photography workshop service based in Tokyo, in 2016 and had to learn everything from scratch. We spent years honing our services and sharpening our marketing messages to attract the perfect clients for our niche—and we were quite successful.
