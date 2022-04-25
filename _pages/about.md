@@ -15,15 +15,13 @@ Whales can also communicate and find each other over vast distances in the blue 
     <img src="/images/joge.jpg" loading="lazy">
     <img src="/images/ricoh.jpg" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
 And finally, the world’s biggest creature, the Blue Whale, eats some of the world’s tiniest creatures. And yet, a lot of small things can let a whale grow pretty big. That’s how we think about business: a lot of small things come together to make your business grow!
 
 > Make a Big Splash.
 
-![Sea]({{site.baseurl}}/images/hero.jpg)
-*Photo by [Alyssa Strohmann](https://unsplash.com/photos/2r2RUsEU1Aw) on [Unsplash](https://unsplash.com/)*
+![Tokyo Tower]({{site.baseurl}}/images/hero.jpg)
 
 Why did we start Qujira?
 
