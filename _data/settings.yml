@@ -28,7 +28,7 @@ menu__settings:
 author:
   author__name: Qujira 
   author__bio: Let's make a big splash together!
-  author__avatar: '/images/qujira-logo.png'
+  author__avatar: '/images/qujira-on-dark.png'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
